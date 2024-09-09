@@ -1,7 +1,7 @@
 # portfolio
-# This is a space for me to store the projects I'm passionate about, and for anyone to contribute. 
-# If you're a potential recruiter reading this, AWESOME!
-# I'm completely self-taught, no teacher whatsoever, so don't judge the code too harshly.
+#
+# FOREWORD
+# This is a space for me to store the projects I'm passionate about, and for anyone interested to contribute. 
 #
 #
 # TABLE OF CONTENTS
