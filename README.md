@@ -1,7 +1,7 @@
-p {
-  text-indent: 50px;
-}
-
+<style>
+p {text-indent: 50px;}
+</style>
+  
 # portfolio <br>
 This is a space for me to store the projects I'm passionate about, and for anyone interested to contribute.
 <hr><br>
