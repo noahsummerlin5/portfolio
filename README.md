@@ -1,6 +1,12 @@
+<html>
+<head>
 <style>
-p {text-indent: 50px;}
+p {
+  text-indent: 50px;
+}
 </style>
+</head>
+<body>
   
 # portfolio <br>
 This is a space for me to store the projects I'm passionate about, and for anyone interested to contribute.
