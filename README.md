@@ -1,5 +1,5 @@
 # portfolio <br>
-This is a space for me to store the projects I'm passionate about, and for anyone interested to contribute.
+This is a space for me to store the projects I'm working on, and for anyone interested to contribute.
 <hr><br>
 
 # TABLE OF CONTENTS <br>
