@@ -1,6 +1,7 @@
 import math
 import matplotlib.pyplot as plt
 import random
+from playground import G as G
 
 # Define body template
 bodyTemplate = {
@@ -40,11 +41,7 @@ v = 100     # interval
 # create bodies (examples)
 createBody("planet", 0, 0, 0, 0, 0, 0, 0, 0, 0, 5.92e24, 6.371e6)
 createBody("moon",3.844e8,0,0,0,1.023e3,0,0,0,0,7.348e22,1.7375e6)
-createBody("third",0,0,5e10,1e4,0,1e1,0,0,0,1e29,1.7375e6)
-
-
-# gravitational constant
-G = 6.6743e-11
+# createBody("third",0,0,5e10,1e4,0,1e1,0,0,0,1e29,1.7375e6)
 
 # track positions
 positionHistory = {body["name"]: {"x": [], "y": [], "z": []} for body in bodies}
